@@ -2,10 +2,10 @@
   "name": "actions-issue",
   "packageManager": "yarn@4.4.1",
   "dependencies": {
-    "@wdio/browser-runner": "9.19.2",
-    "@wdio/cli": "9.19.2",
+    "@wdio/browser-runner": "9.21.0",
+    "@wdio/cli": "9.21.1",
     "@wdio/globals": "9.17.0",
-    "@wdio/spec-reporter": "9.19.2",
+    "@wdio/spec-reporter": "9.20.0",
     "lit": "3.3.1"
   },
   "type": "module"
